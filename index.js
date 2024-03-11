@@ -30,7 +30,7 @@ const promptUser = () => {
   ]);
 };
 
-
+// generate logo process
 const init = () => {
     promptUser()
       .then((res) =>
