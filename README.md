@@ -1,1 +1,2 @@
-# week-10-svg-logo-maker
+# SVG-Logo
+Create and Save an SVG Logo 
